@@ -25,6 +25,7 @@ The amount of water required is the total added height across all columns.
 For  
 `a = [3, 1, 2, 4, 6, 2, 5]` and `h = 4`  
 the total water used is `8` units.
+
 ![alt text](image.png)
 
 You can use **at most `x` units of water**, but you want to build the **tallest possible tank**.
