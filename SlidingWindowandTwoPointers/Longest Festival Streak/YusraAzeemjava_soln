@@ -25,7 +25,7 @@ class festive {
                 sum+=nums[right];
                 right++;
             
-            while(sum>=target){//till valid again
+            while(sum>target){//till valid again
                 
                 sum-=nums[left];
                 left++;
